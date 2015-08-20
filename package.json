@@ -1,0 +1,24 @@
+{
+  "name": "express-sns-parser",
+  "version": "1.0.0",
+  "description": "Express middleware to parse incoming AWS SNS messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rschick/express-sns-parser.git"
+  },
+  "keywords": [
+    "express",
+    "aws",
+    "sns"
+  ],
+  "author": "Russell Schick (rschick@bellwoods.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rschick/express-sns-parser/issues"
+  },
+  "homepage": "https://github.com/rschick/express-sns-parser#readme"
+}
